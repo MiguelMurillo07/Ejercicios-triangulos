@@ -12,7 +12,7 @@ b = int(input("Digite el valor que quiera darle a B: "))
 c = int(input("Digite el valor que quiera darle a C:"))
 
 # processing
-
+if(a+b+c=180):
 if (a and b and c <90):
     print("Las medidas forman un triángulo Agudo.")
 elif(a == 90 and  b and c <90):
